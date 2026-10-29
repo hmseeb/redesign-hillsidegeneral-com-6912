@@ -7,8 +7,6 @@ Los Angeles County.
 ## Structure
 
 - `index.html` — home page
-- `construction-services-in-pasadena-ca/` — construction services overview
-- `adu-construction-in-pasadena-ca/` — ADU construction
 - `retrofit/` — retrofit services
 - `contact/` — contact and estimate request
 - `assets/css/styles.css` — design system and all page styles
